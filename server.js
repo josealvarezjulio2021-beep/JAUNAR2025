@@ -60,7 +60,7 @@ app.get('/api/registros', (req, res) => {
   });
 });
 
-// Iniciar servidor
+// Iniciar servidor aunar tguo
 app.listen(PORT, () => {
   console.log(`Servidor  AUNAR 2025-2 corriendo en http://localhost:${PORT}`);
 });
